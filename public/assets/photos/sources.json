@@ -1,0 +1,20 @@
+{
+  "license": "https://www.pexels.com/license/",
+  "note": "Curated stock photography, not photographs of NeatNest projects or staff. People-focused photography features Black people to reflect the brand's African audience. Each source has one placement across the website. Responsive sizes are variants of that placement.",
+  "photos": [
+    { "file": "home-living", "id": 10161222, "placement": "Home hero", "source": "https://www.pexels.com/photo/modern-living-room-10161222/" },
+    { "file": "home-residential", "id": 37184168, "placement": "Home residential preview", "source": "https://www.pexels.com/photo/bright-and-spacious-modern-living-room-interior-37184168/" },
+    { "file": "home-office", "id": 5511119, "placement": "Home office preview", "source": "https://www.pexels.com/photo/interior-design-of-a-modern-business-office-5511119/" },
+    { "file": "home-deep-clean", "id": 6197050, "placement": "Home deep cleaning preview", "source": "https://www.pexels.com/photo/woman-cleaning-her-living-room-6197050/" },
+    { "file": "about-care", "id": 4867360, "placement": "About hero", "source": "https://www.pexels.com/photo/woman-wiping-the-wooden-table-using-a-hand-towel-4867360/" },
+    { "file": "services-kitchen", "id": 6283972, "placement": "Services hero", "source": "https://www.pexels.com/photo/modern-interior-of-spacious-minimalist-kitchen-6283972/" },
+    { "file": "service-residential", "id": 34992757, "placement": "Residential service", "source": "https://www.pexels.com/photo/modern-minimalist-living-room-interior-design-34992757/" },
+    { "file": "service-office", "id": 7534234, "placement": "Office service", "source": "https://www.pexels.com/photo/a-business-office-with-modern-interior-design-7534234/" },
+    { "file": "service-deep-clean", "id": 6196695, "placement": "Deep cleaning service", "source": "https://www.pexels.com/photo/a-man-in-gray-shirt-brushing-the-wall-while-holding-a-pail-6196695/" },
+    { "file": "service-move", "id": 7587375, "placement": "Move in/out service", "source": "https://www.pexels.com/photo/empty-minimalist-apartment-7587375/" },
+    { "file": "service-after-build", "id": 6920448, "placement": "Post-construction service", "source": "https://www.pexels.com/photo/photo-of-a-kitchen-interior-6920448/" },
+    { "file": "service-upholstery", "id": 6200808, "placement": "Upholstery and glass service", "source": "https://www.pexels.com/photo/woman-in-orange-overall-cleaning-glass-window-6200808/" },
+    { "file": "faq-glass", "id": 6195110, "placement": "FAQ hero", "source": "https://www.pexels.com/photo/a-bearded-man-posing-with-a-cleaning-tool-6195110/" },
+    { "file": "contact-window", "id": 6197114, "placement": "Contact hero", "source": "https://www.pexels.com/photo/woman-wearing-a-jumper-cleaning-a-glass-window-6197114/" }
+  ]
+}

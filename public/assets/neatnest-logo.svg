@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">NeatNest Services logo</title>
+  <desc id="desc">A minimal premium house and nest mark with a subtle sparkle.</desc>
+  <rect width="160" height="160" rx="34" fill="#123f3a"/>
+  <path d="M39 79.5 80 43l41 36.5" fill="none" stroke="#f7f6f0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51 76v38h58V76" fill="none" stroke="#f7f6f0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M57 99c15.8 12.2 30.2 12.2 46 0" fill="none" stroke="#c3a46d" stroke-width="7" stroke-linecap="round"/>
+  <path d="M65 88c10.2 7.4 19.8 7.4 30 0" fill="none" stroke="#dce5d6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M112 43l4.5 11.5L128 59l-11.5 4.5L112 75l-4.5-11.5L96 59l11.5-4.5L112 43z" fill="#c3a46d"/>
+</svg>
